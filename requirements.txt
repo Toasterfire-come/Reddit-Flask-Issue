@@ -1,0 +1,6 @@
+flask==3.0.0
+pandas==2.1.4
+yfinance==0.2.33
+paramiko==3.4.0
+requests==2.31.0
+urllib3==2.1.0
